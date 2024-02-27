@@ -30,6 +30,7 @@ The _Greek Learner Texts Project_ is a collaborative effort to produce openly-li
 * Ivy Livingston — <https://scholar.harvard.edu/livingston>
 * Sarah M. Stephens — <https://github.com/sarahmccuan>
 * Sarah Monnier — <https://github.com/Lorehouse>
+* Alfredo Portinari Maranca - <https://github.com/Apmaranca/Nicomachean-Ethics-Greek-Text/>
 
 and many others on Discord (see below).
 
